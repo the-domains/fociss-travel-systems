@@ -1,16 +1,16 @@
-typography_spectrum: 0.28394217672757804
+typography_spectrum: 0.4450153587386012
 color:
-  brandStrength: 0.44636710663326085
-  lightness: 0.04549562279134989
-  saturation: 0.24350637663155794
-  rhythmicContrast: 0.3131126172374934
+  brandStrength: 0.6775591252371669
+  lightness: 0.3718125051818788
+  saturation: 0.9371737835463136
+  rhythmicContrast: 0.17473922111093998
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-layout_spectrum: 0.32154146232642233
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+layout_spectrum: 0.7106299696024507
 author:
   name: Wade Warren
   email: wade@fociss.com
