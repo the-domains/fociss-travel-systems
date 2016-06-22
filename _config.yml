@@ -1,4 +1,3 @@
-layout_spectrum: 0.32154146232642233
 typography_spectrum: 0.28394217672757804
 color:
   brandStrength: 0.44636710663326085
@@ -11,4 +10,13 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.32154146232642233
+author:
+  name: Wade Warren
+  email: wade@fociss.com
+  url: www.fociss.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/280a1735-0342-4c7e-b6cd-018a545fcffb.png
 name: FOCISS Travel Systems
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/16cfc5fc-294c-4e03-90f9-4885ce18e769.jpg
